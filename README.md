@@ -1,17 +1,30 @@
 # Cyberinfrastructure for Intelligent Water Supply (CIWS) Data Visualization Challenge
 
-As part of a research project sponsored by the United States National Science Foundation, we are sponsoring a data visualization challenge. This repository provides details about the challenges. Links to the datasets available for the challenge, and instructions for submitting entries.
+As part of a research project sponsored by the United States National Science Foundation, the Utah Water Research Laboratory at Utah State University is sponsoring a data visualization challenge. This repository provides details about the challenge, links to the datasets available for the challenge, and instructions for submitting entries.
 
 ## The Visualization Challenge
 
-Water use data is provided by our current research in Cyber-Infrastructure for Intelligent Water Supply(CIWS). This challenge will provide students an opportunity to visualize our water use data in potentially novel and innovative ways to provide feedback to water users for various purposes. The visualizations should be tailored to water users and should have a corresponding ease of access. The challenge will receive submissions from students in both Computer Science and Engineering departments.
+Our research group is developing cyberinfrastructure to better support the collection, management, and use of smart water metering data. This Data Visualization Challenge will provide students at Utah State University with an opportunity to visualize high resolution water use data in potentially novel and innovative ways. We aim to develop new approaches for providing feedback to both water providers (e.g., your municipality that provides your drinking water) and you as a water consumer. 
+
+Visualizations devloped for this challenge should be focused on creating visual information that would useful for either water users or water providers. Given this, the objective is to create visualizations that are easily understandable and may provide actionable information (e.g., the homeowner can see thier water use visually and may change thier behavoir based on the information you provide).
+
+## Prizes!!
+
+We are offering prizes for the most innovative submissions in two categories related to the two datasets we have posted for this challenge. We will award the following prizes for each of the two categories:
+
+**First Place**: $500 
+**Second Place**: $300 
+**Third Place**: $200
+
+**Note:** Payment will be made to you by Utah State University and will be considered taxable income.
+
+## Who Can Participate?
+
+We are encouraging submissions from students in both Computer Science and Engineering departments at USU, but we are happy to receive submissions from any students at USU. For this first round of the visualization challenge we are limiting submissions to students at Utah State University; however, in future versions of the challenge we may open it up to students outside of USU. Participants may be at the undergraduate or graduate level.
 
 ## Getting Started
-This section outlines the steps to download the datasets and where to start.
 
-1. Click the link in the datasets section below. This will take you to a Box drive containing the two data sets. 
-2. Download the datasets. Go into the Data folder and click ‘more options’, and click ‘download’. 
-3. Open the dataset in your preferred IDE, and you take it from there. 
+
 
 ## The Datasets
 
