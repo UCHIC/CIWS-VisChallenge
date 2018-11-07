@@ -7,8 +7,11 @@ As part of a research project sponsored by the United States National Science Fo
 Water use data is provided by our current research in Cyber-Infrastructure for Intelligent Water Supply(CIWS). This challenge will provide students an opportunity to visualize our water use data in potentially novel and innovative ways to provide feedback to water users for various purposes. The visualizations should be tailored to water users and should have a corresponding ease of access. The challenge will receive submissions from students in both Computer Science and Engineering departments.
 
 ## Getting Started
+This section outlines the steps to download the datasets and where to start.
 
-
+1. Click the link in the datasets section below. This will take you to a Box drive containing the two data sets. 
+2. Download the datasets. Go into the Data folder and click ‘more options’, and click ‘download’. 
+3. Open the dataset in your preferred IDE, and you take it from there. 
 
 ## The Datasets
 
