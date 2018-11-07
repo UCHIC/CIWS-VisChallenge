@@ -22,13 +22,17 @@ We are offering prizes for the most innovative submissions in two categories rel
 
 We are encouraging submissions from students in both Computer Science and Engineering departments at USU, but we are happy to receive submissions from any students at USU. For this first round of the visualization challenge we are limiting submissions to students at Utah State University; however, in future versions of the challenge we may open it up to students outside of USU. Participants may be at the undergraduate or graduate level.
 
-## Getting Started
+## Getting Started and How to Submit an Entry
 
-This section outlines the steps to download the datasets and where to start.
+Use the following steps to download the datasets and get started:
 
-1. Click the link in the datasets section below. This will take you to a Box drive containing the two data sets. 
-2. Download the datasets. Go into the Data folder and click ‘more options’, and click ‘download’. 
-3. Open the dataset in your preferred IDE, and you take it from there.
+1. Click the link in the datasets section below. This will take you to a description of the challenge datasets with links for downloading them. 
+2. Create a new GitHub repository under your GitHub user account to develop and host the source code for your submission.
+3. Develop your submission. We encourage you to use Python and existing Python visualization packages such as matplotlib, but you may develop your submission in your preferred programming language. 
+4. When complete, commit your source code to your repository and send a link to your repository to jeff.horsburgh@usu.edu.
+5. Attend the Challenge Event at the end of the challenge to present your results and do demos for a panel of students and faculty who will select Challenge winners.
+
+**IMPORTANT NOTE:** Our project is focused on open source code development. A condition of receiving prizes for winning entries as part of this challenge will be that you must allow us to upload your source code to this GitHub repository. 
 
 ## The Datasets
 
