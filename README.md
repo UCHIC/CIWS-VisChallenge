@@ -16,7 +16,11 @@ We've posted two major datasets for this visualization challenge. These include 
 
 [Access the Challenge Datasets Here](/doc/data.md)
 
-# Visit the Documentation Pages
+## Visit the Documentation Pages
+
+We have developed a set of documentation pages that provide background about our research project along with links to supporting literature. You may find ideas for developing innovative and effective visualizations of the datasets at the link below.
+
+[Access Additional Documentation](/doc/docoumentation.md)
 
 ## Sponsors and Credits
 The material in this repository is based on work supported by National Science Foundation Grant CBET [1552444](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1552444). Any opinions, findings, and conclusions or recommendations expressed are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
