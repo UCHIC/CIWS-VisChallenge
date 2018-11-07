@@ -24,7 +24,11 @@ We are encouraging submissions from students in both Computer Science and Engine
 
 ## Getting Started
 
+This section outlines the steps to download the datasets and where to start.
 
+1. Click the link in the datasets section below. This will take you to a Box drive containing the two data sets. 
+2. Download the datasets. Go into the Data folder and click ‘more options’, and click ‘download’. 
+3. Open the dataset in your preferred IDE, and you take it from there.
 
 ## The Datasets
 
