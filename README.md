@@ -4,7 +4,7 @@ As part of a research project sponsored by the United States National Science Fo
 
 ## The Visualization Challenge
 
-
+Water use data is provided by our current research in Cyber-Infrastructure for Intelligent Water Supply(CIWS). This challenge will provide students an opportunity to visualize our water use data in potentially novel and innovative ways to provide feedback to water users for various purposes. The visualizations should be tailored to water users and should have a corresponding ease of access. The challenge will receive submissions from students in both Computer Science and Engineering departments.
 
 ## Getting Started
 
