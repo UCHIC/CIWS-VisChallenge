@@ -12,9 +12,9 @@ Visualizations devloped for this challenge should be focused on creating visual 
 
 We are offering prizes for the most innovative submissions in two categories related to the two datasets we have posted for this challenge. We will award the following prizes for each of the two categories:
 
-**First Place**: $500 
-**Second Place**: $300 
-**Third Place**: $200
+* **First Place**: $500 
+* **Second Place**: $300 
+* **Third Place**: $200
 
 **Note:** Payment will be made to you by Utah State University and will be considered taxable income.
 
