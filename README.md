@@ -2,11 +2,11 @@
 
 As part of a research project sponsored by the United States National Science Foundation, the Utah Water Research Laboratory at Utah State University is sponsoring a data visualization challenge. This repository provides details about the challenge, links to the datasets available for the challenge, and instructions for submitting entries.
 
-## The Visualization Challenge
+## The Challenge
 
-Our research group is developing cyberinfrastructure to better support the collection, management, and use of smart water metering data. This Data Visualization Challenge will provide students at Utah State University with an opportunity to visualize high resolution water use data in potentially novel and innovative ways. We aim to develop new approaches for providing feedback to both water providers (e.g., your municipality that provides your drinking water) and you as a water consumer. 
+Our research group is developing cyberinfrastructure to better support the collection, management, and use of smart water metering data. This Challenge will provide students at Utah State University with an opportunity to develop visualizations of high resolution water use data that are potentially novel and innovative. We aim to develop new approaches for providing visual feedback to both water providers (e.g., your municipality that provides your drinking water) and you as a water consumer. 
 
-Visualizations devloped for this challenge should be focused on creating visual information that would useful for either water users (to inform them about thier water consumption) or water providers (e.g., the municipality delivering the water). Given this, the objective is to create visualizations that are easily understandable and may provide actionable information (e.g., the homeowner can see thier water use visually and may change thier behavoir based on the information you provide).
+Visualizations devloped for this challenge should be focused on creating visual information that would be useful for either water users (to inform them about thier water consumption) or water providers (e.g., the municipality delivering the water). Given this, the objective is to create visualizations that are easily understandable and may provide actionable information (e.g., the homeowner can see thier water use visually and may change thier behavoir based on the information you provide).
 
 ## Prizes!!
 
@@ -45,6 +45,13 @@ We've posted two major datasets for this visualization challenge. These include 
 We have developed a set of documentation pages that provide background about our research project along with links to supporting literature. You may find ideas for developing innovative and effective visualizations of the datasets at the link below.
 
 [Access Additional Documentation](/doc)
+
+## Important Dates
+
+The Challenge is ongoing! The following are important dates:
+
+* **Submission Deadline**: Friday March 1 by Midnight
+* **Judging Event**: We will hold this sometime in March after we have had a chance to initially evaluate submissions. Details about time and place will be provided to all participants who submit an entry to the challenge.
 
 ## Sponsors and Credits
 The material in this repository is based on work supported by National Science Foundation Grant CBET [1552444](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1552444). Any opinions, findings, and conclusions or recommendations expressed are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
