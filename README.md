@@ -6,11 +6,11 @@ As part of a research project sponsored by the United States National Science Fo
 
 Our research group is developing cyberinfrastructure to better support the collection, management, and use of smart water metering data. This Data Visualization Challenge will provide students at Utah State University with an opportunity to visualize high resolution water use data in potentially novel and innovative ways. We aim to develop new approaches for providing feedback to both water providers (e.g., your municipality that provides your drinking water) and you as a water consumer. 
 
-Visualizations devloped for this challenge should be focused on creating visual information that would useful for either water users or water providers. Given this, the objective is to create visualizations that are easily understandable and may provide actionable information (e.g., the homeowner can see thier water use visually and may change thier behavoir based on the information you provide).
+Visualizations devloped for this challenge should be focused on creating visual information that would useful for either water users (to inform them about thier water consumption) or water providers (e.g., the municipality delivering the water). Given this, the objective is to create visualizations that are easily understandable and may provide actionable information (e.g., the homeowner can see thier water use visually and may change thier behavoir based on the information you provide).
 
 ## Prizes!!
 
-We are offering prizes for the most innovative submissions in two categories related to the two datasets we have posted for this challenge. We will award the following prizes for each of the two categories:
+We are offering prizes for the most innovative submissions in two categories related to the two datasets we have posted for this challenge - 1) household residential, and 2) campus residential. We will award the following prizes for each of the two categories:
 
 * **First Place**: $500 
 * **Second Place**: $300 
@@ -30,7 +30,7 @@ Use the following steps to download the datasets and get started:
 2. Create a new GitHub repository under your GitHub user account to develop and host the source code for your submission.
 3. Develop your submission. We encourage you to use Python and existing Python visualization packages such as matplotlib, but you may develop your submission in your preferred programming language. 
 4. When complete, commit your source code to your repository and send a link to your repository to jeff.horsburgh@usu.edu.
-5. Attend the Challenge Event at the end of the challenge to present your results and do demos for a panel of students and faculty who will select Challenge winners.
+5. Attend the Challenge Event at the Utah Water Research Laboratory (details will be posted on this repository) at the end of the challenge to present your results and do demos for a panel of students and faculty who will select Challenge winners.
 
 **IMPORTANT NOTE:** Our project is focused on open source code development. A condition of receiving prizes for winning entries as part of this challenge will be that you must allow us to upload your source code to this GitHub repository. 
 
