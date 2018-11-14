@@ -52,7 +52,7 @@ We have developed a set of documentation pages that provide background about our
 
 The Challenge is ongoing! The following are important dates:
 
-* **Submission Deadline**: Friday March 1 by Midnight
+* **Submission Deadline**: Friday March 1, 2019 by Midnight (see above for how to submit)
 * **Judging Event**: We will hold this sometime in March after we have had a chance to initially evaluate submissions. Details about time and place will be provided to all participants who submit an entry to the challenge.
 
 ## Contacts
