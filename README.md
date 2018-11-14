@@ -2,7 +2,7 @@
 
 As part of a research project sponsored by the United States National Science Foundation, the Utah Water Research Laboratory at Utah State University is sponsoring a data visualization challenge. This repository provides details about the challenge, links to the datasets available for the challenge, and instructions for submitting entries.
 
-**NOTE:** We will periodically update this repository with additional documentation, examples, and information. Please make sure you check back often.
+**NOTE: We will periodically update this repository with additional documentation, examples, and information. Please make sure you check back often.**
 
 ## The Challenge
 
