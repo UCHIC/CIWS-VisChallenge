@@ -38,13 +38,13 @@ Use the following steps to download the datasets and get started:
 
 We've posted two major datasets for this visualization challenge. These include a high resolution water use dataset for an individual household and a high resolution water use dataset for 6 buildings in the Living Learning Center on USU's campus.
 
-[Access the Challenge Datasets Here](/doc/data.md)
+[Access the Challenge Datasets Here](/data)
 
 ## Visit the Documentation Pages
 
 We have developed a set of documentation pages that provide background about our research project along with links to supporting literature. You may find ideas for developing innovative and effective visualizations of the datasets at the link below.
 
-[Access Additional Documentation](/doc/docoumentation.md)
+[Access Additional Documentation](/doc)
 
 ## Sponsors and Credits
 The material in this repository is based on work supported by National Science Foundation Grant CBET [1552444](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1552444). Any opinions, findings, and conclusions or recommendations expressed are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
