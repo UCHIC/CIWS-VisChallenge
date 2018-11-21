@@ -47,13 +47,14 @@ This file contains a few example water data visuals to give you some ideas on wh
 ### Comparison of different sampling frequancies on flow rate for two different end use events. 
 
 
-![](/docs/images/Picture9.png)&nbsp;
+![](/doc/images/Picture9.png)&nbsp;
 
 
 
 ### Range of flush voluems for all toilets in a single building. 
 
-![](/docs/images/Picturet.png)&nbsp;
+
+![](/doc/images/Picturet.png)&nbsp;
 
 
 
