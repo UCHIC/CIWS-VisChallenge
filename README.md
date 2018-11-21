@@ -10,7 +10,7 @@ Our research group is developing cyberinfrastructure to better support the colle
 
 Visualizations devloped for this challenge should be focused on creating visual information that would be useful for either water users (to inform them about thier water consumption) or water providers (e.g., the municipality delivering the water). Given this, the objective is to create visualizations that are easily understandable and may provide actionable information (e.g., the homeowner can see thier water use visually and may change thier behavoir based on the information you provide).
 
-[Access Information About our Research Group's Project Here](/doc/projectsummary.md)
+[Access Information About our Research Group's Project Here](/doc/project_summary.md)
 
 ## Prizes!!
 
