@@ -3,16 +3,17 @@
 This file contains a few example water data visuals. 
 
 
-Comparison of total water use in all buildings during two semesters.
-![](/doc/images/Picture1.png)
-![](/doc/images/Picture2.png)
-![](/doc/images/Picture3.png)
-![](/doc/images/Picture4.png)
-![](/doc/images/Picture5.png)
-![](/doc/images/Picture6.png)
-![](/doc/images/Picture8.png)
-![](/doc/images/Picture9.png)
-![](/doc/images/Picturet.png)
+
+Comparison of total water use in all buildings across two semesters.
+
+
+![](/doc/images/Picture1.png)&nbsp;
+
+
+Comparison of timing of water use in three buildings across two age groups
+
+
+
 
 
 
