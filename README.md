@@ -32,9 +32,10 @@ Use the following steps to download the datasets and get started:
 
 1. Click the link in the datasets section below. This will take you to a description of the challenge datasets with links for downloading them. 
 2. Create a new GitHub repository under your GitHub user account to develop and host the source code for your submission.
-3. Develop your submission. We encourage you to use Python and existing Python visualization packages such as matplotlib, but you may develop your submission in your preferred programming language. 
-4. When complete, commit your source code to your repository and send a link to your repository to jeff.horsburgh@usu.edu.
-5. Attend the Challenge Event at the Utah Water Research Laboratory (details will be posted on this repository) at the end of the challenge to present your results and do demos for a panel of students and faculty who will select Challenge winners.
+3. Check the [documentation page](https://github.com/UCHIC/CIWS-VisChallenge/blob/master/doc/relevant_literature.md) where we have provided links to documents and papers providing examples of analyses and visualizations relevent to this type of data. You may get some good ideas from these existing papers.
+4. Develop your submission. We encourage you to use Python and existing Python visualization packages such as matplotlib, but you may develop your submission in your preferred programming language. 
+5. When complete, commit your source code to your repository and send a link to your repository to jeff.horsburgh@usu.edu.
+6. Attend the Challenge Event at the Utah Water Research Laboratory (details will be posted on this repository) at the end of the challenge to present your results and do demos for a panel of students and faculty who will select Challenge winners.
 
 **IMPORTANT NOTE:** Our project is focused on open source code development. A condition of receiving prizes for winning entries as part of this challenge will be that you must allow us to upload your source code to this GitHub repository. 
 
