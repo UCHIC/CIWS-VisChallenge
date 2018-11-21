@@ -16,6 +16,8 @@ Access the challenge datasets here:
 
 Access some relevant literature here:
 
+[Relevant Literature](relevant_literature.md)
+
 
 # Example Visualizations and Analyses
 
