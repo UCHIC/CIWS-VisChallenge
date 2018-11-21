@@ -1,5 +1,7 @@
 ## Visualization Software Documentation
 
+The following are examples of potential plotting libraries that you might consider for developing your visualizations. 
+
 ### Matplotlib - Python 2D visualization library (Recommended)
 
 https://matplotlib.org/contents.html
@@ -12,10 +14,13 @@ https://seaborn.pydata.org/index.html
 
 http://ggplot.yhathq.com/docs/index.html
 
+### pandas - not a visualization library per se, but provides useful, high-performance data structures and analysis tools for tabular data
 
-
+https://pandas.pydata.org/
 
 ## Visualization Features
+
+The following papers may be useful for you in thinking about how to visualize high-resolution time series datasets.
 
 Hao, Ming C. et al. “Importance-Driven Visualization Layouts for Large Time Series Data.” Proceedings - IEEE Symposium on Information Visualization, INFO VIS (2005): 203–210. Web. doi: https://doi.org/10.1109/INFVIS.2005.1532148
 
@@ -24,8 +29,9 @@ Forni, L.G., S.E. Galaitsi, V.K. Mehta, M.I. Escobar, D.R. Purkey, N.J. Depsky, 
 Fontdecaba, S., Sánchez-Espigares, J. A., Marco-Almagro, L., Tort-Martorell, X., Cabrespina, F., & Zubelzu, J. (2013). An Approach to Disaggregating Total Household Water Consumption into Major End-Uses. Water Resources Management, 27(7), 2155-2177. doi: https://doi.org/10.1007/s11269-013-0281-8
 
 
-
 ## Water Use Behavior
+
+The following are papers related to water use behavoir that might be useful as background for understanding the datasets provided for the challenge.
 
 Liu, A., & Mukheibir, P. (2018). Digital metering feedback and changes in water consumption - A review. Resources Conservation and Recycling, 134, 136-148. doi: https://doi.org/10.1016/j.resconrec.2018.03.010
 
@@ -37,6 +43,8 @@ Sønderlund, A. L. et al. “Using Smart Meters for Household Water Consumption 
 
 
 ## Additional Literature on Data Resolution for Water Management 
+
+The following are papers that might be useful in getting new visualization and analysis ideas for how to process, analyze, and or visualize high-resolution water use data.
 
 Nguyen, K. A., Stewart, R. A., & Zhang, H. (2014). An autonomous and intelligent expert system for residential water end-use classification. Expert Systems with Applications, 41(2), 342-356. doi: https://doi.org/10.1016/j.eswa.2013.07.049
 
