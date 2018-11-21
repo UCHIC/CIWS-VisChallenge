@@ -20,7 +20,7 @@ We are offering prizes for the most innovative submissions in two categories rel
 * **Second Place**: $300 
 * **Third Place**: $200
 
-**Note:** Payment will be made to you by Utah State University and will be considered taxable income.
+**Note:** Payment will be made to you by Utah State University through USU's Scholarship Office.
 
 ## Who Can Participate?
 
