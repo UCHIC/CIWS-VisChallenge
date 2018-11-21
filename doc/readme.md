@@ -25,3 +25,5 @@ Access some relevant literature here:
 
 Check out some simple examples here:
 
+[Examples](example_visuals.md)
+
