@@ -41,7 +41,7 @@ Use the following steps to download the datasets and get started:
 
 ## The Datasets
 
-We've posted two major datasets for this visualization challenge. These include a high resolution water use dataset for an individual household and a high resolution water use dataset for 6 buildings in the Living Learning Center on USU's campus.
+We've posted two major datasets for this visualization challenge. These include a high resolution water use dataset for an individual household and a high resolution water use dataset for 4 buildings in the Living Learning Center on USU's campus.
 
 [Access the Challenge Datasets Here](/doc/data.md)
 
