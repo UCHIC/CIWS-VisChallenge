@@ -7,6 +7,8 @@ As part of a research project sponsored by the United States National Science Fo
 ## NEW!! Viz Challenge Information Meeting
 Come to an information meeting about the challenge. Meet the challenge sponsors, get ideas, ask questions, and eat free food! Details are [here](/doc/Data_Viz_Challenge_Info_Meet.pdf).
 
+PowerPoint slides from the information meeting are [here](/doc/Viz_Challenge_Intro_Presentation.pptx).
+
 ## The Challenge
 
 Our research group is developing cyberinfrastructure to better support the collection, management, and use of smart water metering data. This Challenge will provide students at Utah State University with an opportunity to develop visualizations of high resolution water use data that are potentially novel and innovative. We aim to develop new approaches for providing visual feedback to both water providers (e.g., your municipality that provides your drinking water) and you as a water consumer. 
