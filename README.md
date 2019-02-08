@@ -8,7 +8,7 @@ As part of a research project sponsored by the United States National Science Fo
 We held an information meeting about the challenge on Wednesday January 30, 2019. We appreciate everyone that came to meet the challenge sponsors, get ideas, ask questions, and eat free food! As a result of this meeting we have posted the following:
 
 * PowerPoint slides from the information meeting are [here](/doc/Viz_Challenge_Intro_Presentation.pptx).
-* The evaluation rubric for how challenge submissions will be scored is available [here](/doc/Data_Viz_Challenge_Evaluation_Rubric.pdf)
+* The evaluation rubric for how challenge submissions will be scored is available [here](/doc/Data_Viz_Challenge_Evaluation_Rubric.pdf).
 * Example code from the demonstrations at the meeting has been posted [here](https://github.com/UCHIC/CIWS-VisChallenge/tree/master/examples).
 
 ## The Challenge
