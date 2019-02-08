@@ -5,9 +5,11 @@ As part of a research project sponsored by the United States National Science Fo
 **NOTE: We will periodically update this repository with additional documentation, examples, and information. Please make sure you check back often.**
 
 ## NEW!! Viz Challenge Information Meeting
-Come to an information meeting about the challenge. Meet the challenge sponsors, get ideas, ask questions, and eat free food! Details are [here](/doc/Data_Viz_Challenge_Info_Meet.pdf).
+We held an information meeting about the challenge on Wednesday January 30, 2019. We appreciate everyone that came to meet the challenge sponsors, get ideas, ask questions, and eat free food! As a result of this meeting we have posted the following:
 
-PowerPoint slides from the information meeting are [here](/doc/Viz_Challenge_Intro_Presentation.pptx).
+* PowerPoint slides from the information meeting are [here](/doc/Viz_Challenge_Intro_Presentation.pptx).
+* The evaluation rebric for how challenge submissions will be scored is available [here](/doc/Data_Viz_Challenge_Evaluation_Rubric.pdf)
+* Example code from the demonstrations at the meeting has been posted [here](https://github.com/UCHIC/CIWS-VisChallenge/tree/master/examples).
 
 ## The Challenge
 
@@ -36,13 +38,17 @@ We are encouraging submissions from students in both Computer Science and Engine
 Use the following steps to download the datasets and get started:
 
 1. Click the link in the datasets section below. This will take you to a description of the challenge datasets with links for downloading them. 
-2. Create a new GitHub repository under your GitHub user account to develop and host the source code for your submission.
+2. Create a new GitHub repository under your GitHub user account to develop and host the source code and/or other files for your submission.
 3. Check the [documentation page](https://github.com/UCHIC/CIWS-VisChallenge/blob/master/doc/relevant_literature.md) where we have provided links to documents and papers providing examples of analyses and visualizations relevent to this type of data. You may get some good ideas from these existing papers.
-4. Develop your submission. We encourage you to use Python and existing Python visualization packages such as matplotlib, but you may develop your submission in your preferred programming language. 
+4. Develop your submission. We encourage you to use Python and existing Python visualization packages such as matplotlib, but you may develop your submission in your preferred programming language or using the tools of your choice. 
 5. When complete, commit your source code to your repository and send a link to your repository to jeff.horsburgh@usu.edu.
 6. Attend the Challenge Event at the Utah Water Research Laboratory (details will be posted on this repository) at the end of the challenge to present your results and do demos for a panel of students and faculty who will select Challenge winners.
 
-**IMPORTANT NOTE:** Our project is focused on open source code development. A condition of receiving prizes for winning entries as part of this challenge will be that you must allow us to upload your source code to this GitHub repository. 
+**IMPORTANT NOTE:** Our project is focused on open source code development. A condition of receiving prizes for winning entries as part of this challenge will be that you must allow us to upload your source code and/or submission files to this GitHub repository. 
+
+## See How Submissions Will be Scored
+
+We have developed and posted a rubric for scoring the submissions to the challenge. You can access the rubric [here](/doc/Data_Viz_Challenge_Evaluation_Rubric.pdf) so you make sure that your submission checks all of the boxes.
 
 ## The Datasets
 
