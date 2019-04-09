@@ -8,22 +8,15 @@ Read about our research project here:
 
 [Project Summary](project_summary.md)
 
-## Datasets
-
-Access the challenge datasets here:
-
-[Challenge Datasets](data.md)
-
 ## Relevant Literature
 
 Access some relevant literature here:
 
 [Relevant Literature](relevant_literature.md)
 
+## Visualization Challenge Examples and Results
 
-## Example Visualizations and Analyses
+Check out the results of our 2018-2019 challenge, including example visualizations and the winning submissions here:
 
-Check out some simple examples here:
-
-[Examples](example_visuals.md)
+[Examples](https://github.com/UCHIC/CIWS-VisChallenge/tree/master/2018-2019_Challenge)
 
