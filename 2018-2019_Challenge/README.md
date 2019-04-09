@@ -1,13 +1,13 @@
 # 2018-2019 Cyberinfrastructure for Intelligent Water Supply (CIWS) Data Visualization Challenge
 
-This folder contains the result of the 2018-2019 visualization challenge. Winning submissions are located in the [submissions](/submissions) folder. All of the following information was used to introduce the challenge and to provide information and materials to potential participants. It is recorded here for archival purposes. Anyone interested in participating in future iterations of the challenge should consult the main README page of this repository.
+This folder contains the result of the 2018-2019 visualization challenge. Winning submissions are located in the [submissions](submissions) folder. All of the following information was used to introduce the challenge and to provide information and materials to potential participants. It is recorded here for archival purposes. Anyone interested in participating in future iterations of the challenge should consult the main README page of this repository.
 
 ## Viz Challenge Information Meeting Materials
 We held an information meeting about the challenge on Wednesday January 30, 2019. We appreciate everyone that came to meet the challenge sponsors, get ideas, ask questions, and eat free food! As a result of this meeting we posted the following:
 
-* PowerPoint slides from the information meeting are [here](/doc/Viz_Challenge_Intro_Presentation.pptx).
-* The evaluation rubric for how challenge submissions were scored is available [here](/doc/Data_Viz_Challenge_Evaluation_Rubric.pdf).
-* Example code from the demonstrations at the meeting has been posted [here](/examples).
+* PowerPoint slides from the information meeting are [here](doc/Viz_Challenge_Intro_Presentation.pptx).
+* The evaluation rubric for how challenge submissions were scored is available [here](doc/Data_Viz_Challenge_Evaluation_Rubric.pdf).
+* Example code from the demonstrations at the meeting has been posted [here](examples).
 
 ## The Challenge
 
@@ -46,13 +46,13 @@ Use the following steps to download the datasets and get started:
 
 ## See How Submissions Will be Scored
 
-We have developed and posted a rubric for scoring the submissions to the challenge. You can access the rubric [here](/doc/Data_Viz_Challenge_Evaluation_Rubric.pdf) so you make sure that your submission checks all of the boxes.
+We have developed and posted a rubric for scoring the submissions to the challenge. You can access the rubric [here](doc/Data_Viz_Challenge_Evaluation_Rubric.pdf) so you make sure that your submission checks all of the boxes.
 
 ## The Datasets
 
 We've posted two major datasets for this visualization challenge. These include a high resolution water use dataset for an individual household and a high resolution water use dataset for 4 buildings in the Living Learning Center on USU's campus.
 
-[Access the Challenge Datasets Here](/doc/data.md)
+[Access the Challenge Datasets Here](doc/data.md)
 
 ## Visit the Documentation Pages
 
