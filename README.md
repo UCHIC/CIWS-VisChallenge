@@ -41,7 +41,7 @@ Use the following steps to download the datasets and get started:
 
 ## See How Submissions Will be Scored
 
-We have developed and posted a rubric for scoring the submissions to the challenge. You can access the rubric [here](https://github.com/UCHIC/CIWS-VisChallenge/tree/master/2020_Challenge/doc/Data_Viz_Challenge_Evaluation_Rubric.pdf) so you make sure that your submission checks all of the boxes.
+We have developed and posted a rubric for scoring the submissions to the challenge. You can access the rubric [here](https://github.com/UCHIC/CIWS-VisChallenge/tree/master/2020_Challenge/doc/Evaluation_Rubric.pdf) so you make sure that your submission checks all of the boxes.
 
 ## The Datasets
 
