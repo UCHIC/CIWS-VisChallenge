@@ -1,4 +1,4 @@
-# Visualization Challenge Datasets
+# 2020 Visualization Challenge Datasets
 
 The following are the datasets for the 2020 visualization challenge. Visualization challenge entries may use either or both of these datasets.
 
