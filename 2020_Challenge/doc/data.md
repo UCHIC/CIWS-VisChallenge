@@ -10,4 +10,4 @@ This dataset consists of raw water use data collected on the residential water m
 ## Single-Household Residential Water Use Event Data
 This dataset consists of water use event data for the same single-family residence. These events were extracted from the raw data file posted above.
 
-[Links to files here.](https://github.com/UCHIC/CIWS-VisChallenge/blob/master/2020_Challenge/data/Classified_Events.csv)
+[Link to file here](https://github.com/UCHIC/CIWS-VisChallenge/blob/master/2020_Challenge/data/Classified_Events.csv)
