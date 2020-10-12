@@ -50,7 +50,7 @@ We've posted a dataset for the challenge that consists of high resolution water 
 * The raw water use data measured on the residential water meter for the house at approximately 4 second resolution (one observation every 4 seconds).
 * Disaggregated and classified water use events (i.e., showers, toilet flushes, faucet events, etc.) for that household derived from the raw water use data. These events were not measured, but were derived from the raw data using a disaggregation/classification algorithm.
 
-[Access the Challenge Datasets Here](https://github.com/UCHIC/CIWS-VisChallenge/tree/master/2020_Challenge/doc/data.md)
+[Access the Challenge Datasets Here](https://github.com/UCHIC/CIWS-VisChallenge/tree/master/2020_Challenge/data/data.md)
 
 ## Visit the Documentation Pages
 
