@@ -1,6 +1,16 @@
 # 2020 Cyberinfrastructure for Intelligent Water Supply (CIWS) Data Visualization Challenge
 
+## Information Meeting
+
+[View the Information Meeting flyer.](https://github.com/UCHIC/CIWS-VisChallenge/blob/master/2020_Challenge/doc/2020_Visualization_Challenge_Info_Meeting_Flyer.pdf)
+
+Please join us for an initial information meeting on Wednesday October 21, 2020 at 5:00 PM. You will have the opportunity to meet the challenge sponsors, get ideas, and ask questions. Unfortunately, due to COVID-19, this will be a virtual event held via Zoom.
+
+Please send an email to jeff.horsburgh@usu.edu to receive the Zoom connection information for the event.
+
 ## The Challenge
+
+[View the challenge flyer.](https://github.com/UCHIC/CIWS-VisChallenge/blob/master/2020_Challenge/doc/2020_Visualization_Challenge_Flyer.pdf)
 
 Our research group is developing cyberinfrastructure to better support the collection, management, and use of smart water metering data. This Challenge provides students at Utah State University with an opportunity to develop potentially novel and innovative visualizations of high resolution residential water use data. For this year's challenge, we aim to develop new approaches for providing visual feedback directly to residential water users about their own water use.
 
