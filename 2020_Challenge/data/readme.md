@@ -18,7 +18,7 @@ Data for the entire time period were compiled into a single comma-separated valu
 ## Single-Household Residential Water Use Event Data (Classified_Events.csv)
 This dataset consists of water use event data for the same single-family residence. These events were extracted from the raw data file posted above.
 
-This dataset consists of classified water use events and their associated physical features extracted from the raw, high resolution water use dataset. All water use events in the dataset are prescribed to one particular end use (faucet, toilet, etc.). Water use events that we were unable to classify (e.g., leaks, unclassified events, etc.) were not included in the event dataset. Thus, the sum total of the events will not be equal to the sum total of the raw pulse data. The event dataset includes 10 event features, including: 
+This dataset consists of classified water use events and their associated physical features extracted from the raw, high resolution water use dataset. All water use events in the dataset are prescribed to one particular end use (faucet, toilet, etc.). Water use events that we were unable to classify (e.g., leaks, unclassified events, etc.) were not included in the event dataset. Thus, the sum total of the events will not be equal to the sum total of the raw pulse data. The event dataset includes 8 event features, including: 
 
 1. StartTime: The date/time of the beginning of the event
 2. EndTime: The date/time of the end of the event
