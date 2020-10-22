@@ -8,7 +8,7 @@ We held an initial information meeting on Wednesday October 21, 2020 at 5:00 PM 
 
 * [PowerPoint slides presented at the meeting](https://usu.box.com/s/npedrgkl6mx1u0f4ayffzvun3xvnno4t)
 * [Zoom recording for the meeting](https://usu.box.com/s/0nzelptxdhksgpwiyuyf3peeod6v8htx)
-* Code examples presente by Camilo and Nour (coming soon)
+* [Code examples presente by Camilo and Nour](https://github.com/UCHIC/CIWS-VisChallenge/tree/master/2020_Challenge/examples)
 
 ## The Challenge
 
