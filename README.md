@@ -74,7 +74,7 @@ We have developed a set of documentation pages that provide background about our
 
 The Challenge is ongoing! The following are important dates:
 
-* **Submission Deadline**: Wednesday November 25, 2020 by Midnight (see above for how to submit)
+* **Submission Deadline**: Wednesday November 25, 2020 by 11:59 PM (see above for how to submit). Basically, submit before Thanksgiving!!
 * **Judging Event**: We are targeting December 10th for the final event. Details about time and place (likely virtual) will be provided to all participants who submit an entry to the challenge.
 
 ## Contacts
