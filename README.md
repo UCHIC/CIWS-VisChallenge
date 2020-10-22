@@ -4,9 +4,11 @@
 
 [View the Information Meeting flyer.](https://github.com/UCHIC/CIWS-VisChallenge/blob/master/2020_Challenge/doc/2020_Visualization_Challenge_Info_Meeting_Flyer.pdf)
 
-Please join us for an initial information meeting on Wednesday October 21, 2020 at 5:00 PM. You will have the opportunity to meet the challenge sponsors, get ideas, and ask questions. Unfortunately, due to COVID-19, this will be a virtual event held via Zoom.
+We held an initial information meeting on Wednesday October 21, 2020 at 5:00 PM at which participants had the opportunity to meet the challenge sponsors, get ideas, and ask questions. See the following links for the information meeting materials, including a recording of the meeting.
 
-Please send an email to jeff.horsburgh@usu.edu to receive the Zoom connection information for the event.
+* [PowerPoint slides presented at the meeting](https://usu.box.com/s/npedrgkl6mx1u0f4ayffzvun3xvnno4t)
+* [Zoom recording for the meeting](https://usu.box.com/s/0nzelptxdhksgpwiyuyf3peeod6v8htx)
+* Code examples presente by Camilo and Nour (coming soon)
 
 ## The Challenge
 
