@@ -1,5 +1,10 @@
 # 2020 Cyberinfrastructure for Intelligent Water Supply (CIWS) Data Visualization Challenge
 
+## Updated Deadlines (NEW!!)
+
+* **Submission Deadline**: Friday December 4, 2020 by 11:59 PM (see below for how to submit). 
+* **Judging Event**: We are targeting December 10th for the final event. Details about time and place (likely virtual) will be provided to all participants who submit an entry to the challenge.
+
 ## Information Meeting
 
 [View the Information Meeting flyer.](https://github.com/UCHIC/CIWS-VisChallenge/blob/master/2020_Challenge/doc/2020_Visualization_Challenge_Info_Meeting_Flyer.pdf)
@@ -74,7 +79,7 @@ We have developed a set of documentation pages that provide background about our
 
 The Challenge is ongoing! The following are important dates:
 
-* **Submission Deadline**: Wednesday November 25, 2020 by 11:59 PM (see above for how to submit). Basically, submit before Thanksgiving!!
+* **Submission Deadline**: Friday December 4, 2020 by 11:59 PM (see above for how to submit). 
 * **Judging Event**: We are targeting December 10th for the final event. Details about time and place (likely virtual) will be provided to all participants who submit an entry to the challenge.
 
 ## Contacts
