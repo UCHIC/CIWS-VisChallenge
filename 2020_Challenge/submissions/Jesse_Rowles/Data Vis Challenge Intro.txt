@@ -1,0 +1,33 @@
+Identifying specific uses just given volume over time
+Indoor and Outdoor
+4 seconds
+Uses provided
+Jeff's home
+	5 occupants - 2 adults, 3 teenage females, 1 dog
+	.28 acre
+	3 bathrooms
+	automatic sprinkler
+raw data - meter factor - given number of pulses, multiply by meter factor to get gallons in step
+extracted event data - given start and end time of event
+2 week long period
+focus on ways to save money on water
+DEADLINE: November 25
+~$1 / 1000 gal
+submit to github repository (whatever you want - images, source code, powerpoint, writeup)
+
+ideas
+	Breakdown by type
+		percent
+		volume, then can show how volumes can be improved with new devices
+	suggestion of new devices 
+		how much water saved
+		how much money saved
+		or new irrigation techniques?
+	indoor vs outdoor use
+	histogram of hourly water use (in gallons)
+		colored by type
+		
+List
+1. time series with events highlighted (lightly colored polygon)
+2. pie chart of all uses, without irrigation
+3. stacked bar plot of half hour increments of day (i.e., 8-8:30, 8:30-9, etc)

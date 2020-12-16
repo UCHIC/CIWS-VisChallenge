@@ -1,0 +1,1 @@
+This folder contains a copy of the images produced by the code as well as some samples showing how those images could be used to create a mailer or flier that could be sent to customers (e.g. as part of their water bill)

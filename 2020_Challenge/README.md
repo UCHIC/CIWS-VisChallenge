@@ -1,6 +1,6 @@
 # 2020 Cyberinfrastructure for Intelligent Water Supply (CIWS) Data Visualization Challenge
 
-This folder contains the results for the 2020 visualization challenge. Winning submissions are located in the submissions folder. All of the following information was used to introduce the challenge and provide information and materials to participants. It is recorded here for archival purposes. 
+This folder contains the results for the 2020 visualization challenge. Winning submissions are located in the [submissions](https://github.com/UCHIC/CIWS-VisChallenge/tree/master/2020_Challenge/submissions) folder. All of the following information was used to introduce the challenge and provide information and materials to participants. It is recorded here for archival purposes. 
 
 ## Information Meeting Materials
 

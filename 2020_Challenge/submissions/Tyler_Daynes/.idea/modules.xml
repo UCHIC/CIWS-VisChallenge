@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DataVisualization.iml" filepath="$PROJECT_DIR$/.idea/DataVisualization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Data_Viz_Daynes/.idea/Data_Viz_Daynes.iml" filepath="$PROJECT_DIR$/../Data_Viz_Daynes/.idea/Data_Viz_Daynes.iml" />
+    </modules>
+  </component>
+</project>
