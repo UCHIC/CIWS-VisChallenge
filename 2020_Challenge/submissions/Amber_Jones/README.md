@@ -40,7 +40,7 @@ Using these rates, the total pricing for each scenario was determined.
 ### Plots and Illustrations
 The water use and pricing information for each scenario is visualized in a bar chart. Each bar represents total monthly household water use for each scenario. Indoor use is constant while outdoor use varies. Dashed lines indicate the pricing tiers, and total monthly cost is shown for each scenario. Note that this is only applicable to summer irrigation season.
 
-![outdoorscenarios](/Images/outdoor_scenarios.png)
+![outdoorscenarios](Images/outdoor_scenarios.png)
 
 These plots indicate the savings that can be realized with increased water conservation. For this household, reducing either lawn area or watering rate saves around $20/month during the summer season. Implementing both could save $30/month. Note that for this household, all indoor water use (and some outdoor use) are included in the flat rate.
 
