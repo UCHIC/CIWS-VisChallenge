@@ -62,7 +62,7 @@ We have developed a set of documentation pages that provide background about our
 
 ## Important Dates
 
-The Challenge is ongoing! The following are important dates:
+The following are important dates:
 
 * **Submission Deadline**: Friday March 1, 2019 by Midnight (see above for how to submit)
 * **Judging Event**: We will hold this sometime in March after we have had a chance to initially evaluate submissions. Details about time and place will be provided to all participants who submit an entry to the challenge.
@@ -70,6 +70,9 @@ The Challenge is ongoing! The following are important dates:
 ## Contacts
 
 * For information about the Visualization Challenge or if you have general questions, contact Jeff Horsburgh at jeff.horsburgh@usu.edu
-* For information about the houshold residential dataset, contact Camilo Bastidas at cjbas22@aggiemail.usu.edu
-* For information about the campus residential dataset, contact Joseph Brewer at joseph.c.brewer@aggiemail.usu.edu
+
+## Sponsors and Credits
+[![NSF-1552444](https://img.shields.io/badge/NSF-1552444-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1552444)
+
+The material in this repository is based on work supported by National Science Foundation Grant CBET [1552444](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1552444). Any opinions, findings, and conclusions or recommendations expressed are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
 
