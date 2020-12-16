@@ -16,7 +16,7 @@ Input data is found in the same root directory as the scripts. Background images
 ## Overall Water Use
 The FlowPlots script imports data, aggregates all events by category, and determines daily averages. Data are further organized as in/out flows for plotting. Two plots are constructed and put together for a single visualization: first to illustrate the split between indoor and outdoor use, and then to show the proportions of indoor use. A separate plot is used for indoor because, for the timeframe for this example, outdoor water use overshadowed indoor use. All numbers in the plots are daily averages.
 
-![flowplots](/Images/flowplots.png)
+![flowplots](Images/flowplots.png)
 
 As shown here, a vast majority of water used by the household in this period goes to outdoor uses - primarily irrigation of turfgrass by automated sprinkler system along with a relatively small amount of hose use. For the 130 gallons used indoor each day, toilet flushes and showers consume the most water along with some faucet and clothes washer. Note that 'faucet' includes both sink use and automatic dishwashing.
 
@@ -46,23 +46,23 @@ These plots indicate the savings that can be realized with increased water conse
 
  The illstrations below visualize the impact of each of the scenarios. In the upper illustration, the relative portions of irrigated area are shown as a full lawn and a partially xeriscaped landscape to show reduced irrigated area. In the lower figure, the current baseline weekly watering depth is shown next to the recommended depth to illustrate the opportunity for reduction. These are overlaid on an image of grass to show where the water is going.
  
- ![outdoorillustration](/Images/outdoor_illustration.png)
+ ![outdoorillustration](Images/outdoor_illustration.png)
  
  ## Indoor Water Use
 For this house and time period, outdoor water use dominated and presents the greatest opportunity for conservation; however, outdoor use will not be significant for portions of the year and may not be as relevant for some households. Given the flat rate for the lowest use tier in Providence, there isn ot a financial incentive to conserve indoor water, nevertheless, some consumers may want to go beyond outdoor conservation. The IndoorWaterUse script explores various indoor uses including timing and variability and potential paths for conservation. The below plot illustrates the ranges of event duration for each category. Because volume is directly related to duration, the range of durations also indicates the range of volumes. 
 
-![indoordurations](/Images/indoor_durations.png)
+![indoordurations](Images/indoor_durations.png)
 
 For faucet, clothes washer, and toilet, all events are of similar duration to others in the same category. On the other hand, the shower event durations vary widely. Compared to the other uses, showers offer the greatest opportunity for conservation, so three scenarios are considered for reducing shower water use. Note that toilet flushes use more overall water than showers, so opportunity for reduction could occur if residents are willing to flush less, however, acceptance of messaging on toilet flush conservation may not be palatable to residents (e.g., "if it's yellow, let it mellow").
 
 ### Timing
 To visualize when water is being used in different areas of the house, the data are split into hours when the event occurred and plotted.
 
-![indoorvolumes](/Images/indoor_volumes.png)
+![indoorvolumes](Images/indoor_volumes.png)
 
 Shower volume is greatest 9am-12pm and 4-6pm, and those are the hours with the most use overall. Toilet and faucet use are fairly consistent throughout the day. Clothes washing mostly occurs 9am-1pm. Information on the typical shower duration for each hour can help target specific times or individuals. The below plot illustrates the range of shower duration for each hour of the day.
 
-![showerdurations](/Images/shower_durations.png)
+![showerdurations](Images/shower_durations.png)
 
 This plot further shows that 9am-12pm, 4-5pm, and 9-10pm are times when relatively lengthy showers are occurring - both the maximum and the average are higher than other times of day. With this information, the household can target reduction efforts on showers that occur during those times of the day -- this is the focus of one of the scenarios.
 
@@ -75,9 +75,9 @@ As shown by the previous visualizations, shower events are the best opportunity 
 ### Plots and Illustrations
 Several visualizations present the water used by each shower scenario. The bathtub illustration shows total daily shower volume for each scenario as water depth scaled to a typical bathtub. The same numbers are presented in a bar chart where each bar corresponds to a scenario. To visualize the water conserved in each scenario, savings are presented in terms of gallon jugs.
 
-![tubillustration](/Images/tub_illustration.png)
+![tubillustration](Images/tub_illustration.png)
 
-![showerscenarios](/Images/shower_scenarios.png)
+![showerscenarios](Images/shower_scenarios.png)
 
 ![milkjugillustration](Images/milkjug_illustration.png)
 
